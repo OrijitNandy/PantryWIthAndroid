@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item
+        type="id"
+        name="ListView"
+        />
+    <item type="id"
+        name="editTextID"  />
+    <item name="editTextPrice" type="id" />
+    <item name="editTextQuantity" type="id" />
+</resources>
